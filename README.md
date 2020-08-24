@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Instrucciones
+Una vez descargado el proyecto, abrir la ruta desde un terminal y ejecutar
+```
+npm install
+```
+Verificar que el puerto de la api corresponda al que está registrado en el archivo src/Global.js y colocar el puerto por el que esté corriendo la api. 
+
 ## Available Scripts
 
 In the project directory, you can run:
